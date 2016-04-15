@@ -23,4 +23,4 @@ def generate(lenth, quantity):
 
 if __name__ == '__main__':
     ret = generate(15, 4)
-    print 'ret1', ret1
+    print 'ret1', ret
